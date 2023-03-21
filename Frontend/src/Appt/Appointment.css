@@ -1,0 +1,25 @@
+/* form {
+    background-size: cover;
+    background-position: center;
+  } */
+  
+  .appo {
+    font-weight: bold;
+    color: white;
+  }
+  
+  .appointment-form {
+    border: 1px solid white;
+    padding: 5px;
+    margin: 5px;
+    color: white;
+    background-color: rgba(34, 33, 33, 0);
+  }
+  
+  .blue-button {
+    background-color: rgb(47, 47, 49);
+    color: white;
+    border: none;
+    padding: 10px;
+  }
+  

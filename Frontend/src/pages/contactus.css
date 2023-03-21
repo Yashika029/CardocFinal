@@ -1,0 +1,115 @@
+.cardoc-contact-grid {
+    display: flex;
+    background-color: #122164;
+}
+
+.cardoc-info-section {
+    width: 100%;
+    height: 585px;
+    background-color: #122164;
+    display: flex;
+}
+
+.cardoc-logo-info-container {
+    width: 40%;
+    margin: 0 10% 0 3%;
+}
+
+.cardoc-full-logo {
+    width: 100%;
+}
+
+.cardoc-full-logo img {
+    width: 387.17px; 
+    margin-top: 41px;
+}
+
+.cardoc-desc {
+    width: 100%;
+}
+
+.cardoc-desc {
+    margin: 5% 0;
+}
+
+.cardoc-desc p {
+    font-family: AvenirRegular;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px !important;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+
+/* Contact Section */
+
+.contact-section {
+    height: 8vh;
+    display: flex;
+    
+}
+
+.contact-section img {
+    margin-right: 8vw;
+}
+
+.contact-section h4 {
+    margin-right: 5vw;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 10px;
+    letter-spacing: 0.01em;
+
+    color: #FFFFFF;
+
+}
+
+.contact-section h5 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0.01em;
+
+    color: #FFFFFF;
+}
+
+.contact-section-container {
+    padding: 2% 0 0 10%;
+    text-align: center;
+}
+
+.contact-section-image-container {
+    width: 7vw;
+}
+
+.contact-section-key-container {
+    text-align: start;
+    width: 11vw;
+}
+
+.contact-section-key-container,
+.contact-section-value-container {
+    margin-top: 1%;
+}
+
+.email-section img {
+    width: 30px;
+}
+
+.phone-section img {
+    width: 30px;
+}
+
+.calendar-section img {
+    width: 30px;
+}
+
+.clock-section img {
+    width: 30px;
+}
